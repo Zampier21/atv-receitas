@@ -1,0 +1,42 @@
+
+img{
+    width: 250px;
+    height: 250px;
+    
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.card{
+    background-color: #afadb4;
+    margin: 50px;
+    width: 500px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card:hover{
+    background-color: #7765dd;
+    transition: 3ms;
+    cursor:pointer;
+}
+h2{
+    color:#ffffff;
+}
+.linkInvisivel{
+    text-decoration: none !important;
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f03eb49.css",
+    "main.js": "/static/js/main.1e045162.js",
+    "static/js/787.4e0548a5.chunk.js": "/static/js/787.4e0548a5.chunk.js",
+    "static/media/file_frango.jpg": "/static/media/file_frango.0331d23892dd9f241e15.jpg",
+    "static/media/bolo-cenoura.png": "/static/media/bolo-cenoura.fdba82069c7e376fd66a.png",
+    "static/media/bolo_carne_bacon.jpg": "/static/media/bolo_carne_bacon.7434df8f1e3d21a2997f.jpg",
+    "index.html": "/index.html",
+    "main.0f03eb49.css.map": "/static/css/main.0f03eb49.css.map",
+    "main.1e045162.js.map": "/static/js/main.1e045162.js.map",
+    "787.4e0548a5.chunk.js.map": "/static/js/787.4e0548a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f03eb49.css",
+    "static/js/main.1e045162.js"
+  ]
+}

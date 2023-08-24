@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "nome": "Bolo de carne com bacon",
+        "topicos": [
+            {
+                "id": 1,
+                "Titulo": "Ingredientes",
+                "conteudo": "-800g de carne moida, 1/2 cebola picada, 1/2 xicara(chá) de cheiro verde picado, 2 colheres(sopa) de farinha de rosca, 1 ovo, 500g de bacon fatiado, sal e pimenta do reino a gosto"
+            },
+            {
+                "id": 2,
+                "Titulo": "Recheio",
+                "conteudo": "250g de queijo provolone ralado, 1 xicára(chá) de requeijão cremoso e 01 tomate sem semente picado"
+            },
+            {
+                "id": 3,
+                "Titulo": "modoPreparo",
+                "conteudo": "1-Em uma tigela, misture bem os ingredientes do recheio e reserve. 2-Em outro recipiente, misture a carne moída, a cebola, o cheiro-verde, a farinha de rosca, o ovo, o sal e a pimenta até formar uma massa homogênea. 3-Reserve. 4-Em seguida, forre uma fôrma de bolo de buraco no meio de 22cm de diâmetro com as fatias de bacon, deixando que sobrem bordas para fora. 5-Espalhe metade da mistura de carne na fôrma e por cima espalhe o recheio reservado, apertando bem. 6-Logo depois, cubra com a carne restante e feche com o bacon que sobrou para fora. 7-Leve ao forno médio, preaquecido, por 25 minutos ou até assar e dourar levemente. 8-Por fim, retire, desenforme e sirva."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Filé de frango a jardineira",
+        "topicos": [
+            {
+                "id": 1,
+                "Titulo": "ingredientes",
+                "conteudo": "4 filés de frango, Sal e pimenta-do-reino a gosto, 1 dente de alho amassado, 1 colher(sopa) de manteiga, 1 cebola em cubos, 1 colher(chá) de farinha de trigo, 1 lata de seleta de legumes escorrida, 2 colheres(sopa)d e requeijão cremoso, 1 colher(sopa) de salsa picada"
+            },
+            {
+                "id": 2,
+                "Titulo": "modoPreparo",
+                "conteudo": "1- Tempere o frango com sal, pimenta e o alho. 2- Derreta metade da manteiga em uma frigideira grossa, em fogo alto e entao doure o filé de frango por 2 minutos de cada lado. 3- Reserve em uma travessa aquecida. 4- Enquanto isso, na mesma frigideira, refogue a cebola no restante da manteiga por 2 minutos. 5- Polvilhe a farinha e frite por 1 minuto, mexendo. 6- Acrescente a seleta, o requeijão, sal e pimenta. 7- Deixe levantar fervura e espalhe sobre o frango. 8- Polvilhe com a salsa e sirva em seguida."
+            }
+        ]
+    },
+    {
+        "id":3,
+        "nome": "Bolo de cenoura de liquidificador com chocolate",
+        "topicos": [
+            {
+                "id": 1,
+                "Titulo": "Ingredientes:",
+                "conteudo": "3 Ovos. 3 cenouras picadas. 1 xicára(chá) de óleo. 2 xicáras(chá) de açucar. 3 xicáras (chá) de farinha de trigo. 1 colher(sopa) de fermento em pó. 1 xicára(chá) de suco de laranja para regar. margarina e farinha de trigo para untar."
+            },
+            {
+                "id": 2,
+                "Titulo": "Cobertura",
+                "conteudo": "1 Lata de leite condensado. 1 Gema peneirada. 1 Colher(sopa) de margarina. 3 Colheres(sopa) de chocolate em pó. 1 Lata de creme de leite."
+            },
+            {
+                "id": 3,
+                "Titulo": "modoPreparo",
+                "conteudo": "1- No liquidificador, bata o ovo, a cenorua, o óleo, o açúcar, a farinha e o fermento até ficar homogêneo. 2- Unte e enfarinhe uma forma redonda de 26cm de diametro, despeje a massa e leve ao forno médio, preaquecido, por 40 minutos ou até dourar. 3- Enquanto isso, em uma panela, leve ao fogo baixo, o leite condensado, a gema, a margarina e o chocolate até desprender do fundo da panela. 4- Espere esfriar, misture com o creme de leite e leve até a geladeira até a hora de utilziar. 5- Desenforme o bolo e ainda morno, corte ao meio, regue uma parte com o suco de laranja e coloque metade do creme de chocolate. 6- Coloque a outra metade do bolo, regue novamente e cubra com o creme restante. 7- Se desejar, decore com cenourinhas e sirva em seguida."
+            }
+        ]
+    },
+    {
+        "id":4,
+        "nome": "Torta de bis com sorvete",
+        "topicos": [
+            {
+                "id": 1,
+                "Titulo": "Ingredientes",
+                "conteudo": "1 Pacote de Biscoito Maria(200g). 4 Colheres(sopa) de manteiga. 4 Xícaras(chá) de sorvete de creme amolecido. 1 Lata de leite condensado. 3 Gemas. 3 Colheres(sopa) de chocolate em pó. 1 Colher(sopa) de maisena. 1 Lata de leite(use a lata de leite condensado vazia para medir). 1/2 Colher(sopa) de essência de baunilha. 20 Unidades de chocolate tipo Bis"
+            },
+            {
+                "id": 2,
+                "Titulo": "modoPreparo",
+                "conteudo": "No liquidificador, triture o biscoito, transfira para uma tigela e misture com manteiga. Forre o fundo de um refrátario médio e fundo e leve ao congelador por 15 minutos. Retire, distribua o sorvete de creme e volte ao congelador por 30 minutos. Em uma panela, coloque o leite condensado, as gemas, o chocolate e a maisena dissolvida no leite. Leve ao fogo médio, mexendo até engrossar. Desligue, adicione a baunilha e espere esfriar. Reserve 3 Bis inteiros e pique o restante. Misture o Bis picado com o creme. Retire a travessa do congelador, cubra com o creme e decore com Bis cortado ao meio no sentido do comprimento. Sirva em seguida."
+            }
+        ]
+    }
+]
